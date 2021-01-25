@@ -1,0 +1,8 @@
+public void TestJava{
+    public static void main(String[] args){
+    
+    system.out.println("git的测试");
+    
+ }
+
+}
